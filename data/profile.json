@@ -43,33 +43,22 @@
     "Português BR",
     "Inglês (Cursando)"
   ],
-  "portfolio": [
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
-    }
-  ],
+  
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Customer Success / KORE WIRELESS.",
+      "period": "07/2024 - 04/2026",
+      "description": "Atuação no atendimento ao cliente por telefone e suporte a chamados técnicos, realizando diagnósticos e procedimentos para resolução de problemas relacionados aos serviços de conectividade. Responsável pela análise da situação contratual dos clientes, incluindo verificação de pendências financeiras e validade de contrato, com foco na manutenção da satisfação e na continuidade do serviço. Atuação proativa na identificação e prevenção de falhas técnicas, propondo soluções para evitar recorrências e impactos operacionais. Colaboração com as equipes de Vendas, Logística, Financeiro e Redes, contribuindo para a melhoria dos processos internos e para a experiência do cliente, com foco em retenção e fidelização. Participação em regime de plantão semanal, com disponibilidade para atendimento de incidentes fora do horário comercial, incluindo suporte noturno, garantindo continuidade operacional e agilidade na resolução de ocorrências críticas."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Auxiliar de Logística, JJGC IND. E COM. DE MATERIAIS DENTÁRIOS.",
+      "period": "04/2021 - 03/2024",
+      "description": "Conferência de produtos; conferencia e garantia dequalidade e integridade no processo; suporte no inventário e na separação de pedidos; auxílio no faturamento;participação ativa no envio e recebimento de materiais;gerenciamento e organização do estoque; preenchimento de relatórios de produtos perecíveis; registro de informaçõesrelevantes sobre validade, conservação e movimentação;embalagem e roteirização de entregas, liderança do setor de expedição e equipe de entrega."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Assistente de Logística, R&D MÉDIQ.",
+      "period": "08/2020 - 03/2021",
+      "description": "Recebimento de registro de notas fiscais; armazenamento de materiais;atendimento as requisições internas para entregadentro do prazo; gerenciamento da armazenagem deprodutos acabados; execução da separação e expedição de pedidos."
     }
   ]
 }
