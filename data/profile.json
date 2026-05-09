@@ -9,23 +9,23 @@
     "hardSkills": [
       {
         "name": "Mysql",
-        "logo": "https://raw.githubusercontent.com/caduzs/js-developer-portfolio/refs/heads/main/data/imgs/mysql.png"
+        "logo": "data/imgs/mysql.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/caduzs/js-developer-portfolio/refs/heads/main/data/imgs/angular.png"
+        "logo": "data/imgs/angular.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/caduzs/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
+        "logo": "data/imgs/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/caduzs/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
+        "logo": "data/imgs/js.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/caduzs/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
+        "logo": "data/imgs/html.png"
       }    
        
       
